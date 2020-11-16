@@ -1,0 +1,14 @@
+export const FETCH_LISTS = "FETCH_LISTS";
+export const ADD_LIST = "ADD_LIST";
+export const EDIT_LIST = "EDIT_LIST";
+export const DELETE_LIST = "DELETE_LIST";
+export const SELECT_LIST = "SELECT_LIST";
+export const SHOW_MODAL = "SHOW_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const MODAL_UPDATING = "MODAL_UPDATING";
+export const ADD_REMINDER = "ADD_REMINDER";
+export const UPDATE_REMINDER = "EDIT_REMINDER";
+export const DELETE_REMINDER = "DELETE_REMINDER";
+export const FETCH_REMINDERS = "FETCH_REMINDERS";
+export const TOGGLE_COMPLETED_VISIBILITY = "TOGGLE_COMPLETED_VISIBILITY";
+export const SET_FILTER = "SET_FILTER";

@@ -1,0 +1,32 @@
+.header-one {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.header-two {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.header-three {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+ul.dash {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+}
+
+ul.dash>li:before {
+    display: inline-block;
+    content: "-";
+    width: 1em;
+    margin-left: -1em;
+}
+
+.unordered-list {
+    list-style-type: square;
+    position: relative;
+}

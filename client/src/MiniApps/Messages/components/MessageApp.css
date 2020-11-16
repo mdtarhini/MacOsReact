@@ -1,0 +1,39 @@
+textarea::-webkit-scrollbar {
+    background-color: transparent;
+}
+
+.sideContentListItem:hover {
+    cursor: pointer;
+}
+
+.break {
+    flex-basis: 100%;
+    height: 3px;
+}
+
+.messagesDate>span {
+    color: grey;
+    font-weight: 300;
+    font-size: small;
+}
+
+.message {
+    position: relative;
+    padding: 7px 20px;
+    color: white;
+    background: #0B93F6;
+    border-radius: 25px;
+    min-width: 50px;
+    max-width: 49%;
+}
+
+.from-me {
+    margin-right: 20px;
+    margin-left: auto;
+}
+
+.from-them {
+    margin-left: 20px;
+    background: #E5E5EA;
+    color: black;
+}

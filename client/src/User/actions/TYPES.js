@@ -1,0 +1,27 @@
+export const SIGN_UP_INIT = "SIGN_UP_INIT";
+export const SIGN_UP_SUCCESS = "SIGN_UP_SUCCESS";
+export const SIGN_UP_FAILED = "SIGN_UP_FAILED";
+export const SIGN_UP_ABORT = "SIGN_UP_ABORT";
+
+export const SIGN_IN_INIT = "SIGN_IN_INIT";
+export const SIGN_IN_SUCCESS = "SIGN_IN_SUCCESS";
+export const SIGN_IN_FAILED = "SIGN_IN_FAILED";
+export const SIGN_IN_ABORT = "SIGN_IN_ABORT";
+
+export const USER_LOADED = "USER_LOADED";
+export const USER_NOT_LOADED = "USER_NOT_LOADED";
+
+export const SIGN_OUT = "SIGN_OUT";
+
+export const GUEST_LOADED = "GUEST_LOADED";
+export const GUEST_NOT_LOADED = "GUEST_NOT_LOADED";
+
+export const CONTACT_NOT_ADDED = "CONTACT_NOT_ADDED";
+export const CONTACT_ADDED = "CONTACT_ADDED";
+
+export const USER_DOING_SOMETHING = "USER_DOING_SOMETHING";
+export const CONTACT_DELETED = "CONTACT_DELETED";
+export const CONTACT_NOT_DELETED = "CONTACT_NOT_DELETED";
+
+export const USER_EDITED = "USER_EDITED";
+export const USER_NOT_EDITED = "USER_NOT_EDITED";

@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+.listNavItem:hover,
+.SideWidgetOuterDiv:hover {
+    cursor: pointer;
+}
