@@ -20,3 +20,11 @@ The project is divided into two parts, the server that handle basic backend, mon
 - Dictionary: [(unofficial) Google Dictionary API
   ](https://dictionaryapi.dev/)
 - Stock: [alphavintage](https://www.alphavantage.co/)
+
+## Other resources
+
+- Home icons: [iconarchive](https://iconarchive.com/)
+
+## keywords
+
+React-JS, node-JS, express, redux, react-router, socket-io, mongoDB, axios.
