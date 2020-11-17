@@ -4,7 +4,7 @@ This is a small collection of macos-apps mockups that I created while learning n
 
 ## Local testing
 
-The project is divided into two parts, the server that handle basic backend, mongoDB access and routing; and the client where the react frontend is implemented. To run the application locally, clone this repository and run `npm install` both in the main directory and in the client directory. Once the package installation is done, run `npm run dev` which will use [concurrently](https://www.npmjs.com/package/concurrently) which will run and watch for modifications in the client and the server simultaneously.
+The project is divided into two parts, the server that handle basic backend, mongoDB access and routing; and the client where the react frontend is implemented. To run the application locally, clone this repository and run `npm install` both in the main directory and in the client directory. Once the package installation is done, run `npm run dev` which will use [concurrently](https://www.npmjs.com/package/concurrently) and run/watch for modifications in the client and the server simultaneously.
 
 ### Environment variables
 
